@@ -14,7 +14,7 @@
   "license": "MIT",
   "devDependencies": {
     "eslint": "^8.16.0"
-  }
+  },
   "publishConfig": {
    "@oblisis:registry": "https://npm.pkg.github.com"
  }
