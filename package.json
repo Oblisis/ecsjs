@@ -4,7 +4,7 @@
   "description": "A simple entity component system for javascript.",
   "main": "index.js",
   "scripts": {
-    "test": "exit 0"
+    "test": "mocha"
   },
   "keywords": [
     "ecs",
@@ -13,9 +13,10 @@
   "author": "Jesse Mills",
   "license": "MIT",
   "devDependencies": {
-    "eslint": "^8.16.0"
+    "eslint": "^8.16.0",
+    "mocha": "^10.0.0"
   },
   "publishConfig": {
-   "@oblisis:registry": "https://npm.pkg.github.com"
- }
+    "@oblisis:registry": "https://npm.pkg.github.com"
+  }
 }
