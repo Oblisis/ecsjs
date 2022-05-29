@@ -1,0 +1,15 @@
+{
+  "name": "examples",
+  "version": "1.0.0",
+  "description": "example usage for ecsjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "exit 0"
+  },
+  "author": "Jesse Mills",
+  "license": "MIT",
+  "dependencies": {
+    "@oblisis/ecsjs": "file:.."
+  }
+}
